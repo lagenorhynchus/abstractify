@@ -1,4 +1,4 @@
-# Abstractify 📚
+# Abstractify 
 
 **Scientific Papers Simplified** - A Next.js application that makes complex scientific research accessible to everyone by providing simplified summaries alongside original abstracts.
 
@@ -9,7 +9,7 @@
 - **Modern UI**: Clean, responsive design built with Tailwind CSS
 - **TypeScript**: Full type safety for better development experience
 - **Category Filtering**: Papers organized by scientific categories
-- **Responsive Design**: Works perfectly on desktop and mobile devices
+- **Responsive Design**: Works on desktop and mobile devices
 
 ## 🚀 Getting Started
 
