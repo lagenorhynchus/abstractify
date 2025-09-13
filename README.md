@@ -92,47 +92,6 @@ Each scientific paper is displayed in a clean card format featuring:
 - Smooth loading indicators
 - Efficient pagination system
 
-## 🔧 Development
-
-### Code Quality
-- **ESLint**: Configured with Next.js recommended rules
-- **TypeScript**: Strict type checking enabled
-- **Path Aliases**: `@/` prefix for clean imports
-
-### Styling
-- **Tailwind CSS**: Utility-first CSS framework
-- **Responsive Design**: Mobile-first approach
-- **Dark Mode Ready**: Easy to implement dark theme
-
-## 📱 Responsive Design
-
-The application is fully responsive and works seamlessly across:
-- 📱 Mobile devices (320px and up)
-- 📊 Tablets (768px and up)
-- 💻 Desktop computers (1024px and up)
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-The easiest way to deploy your Next.js app:
-
-1. Push your code to GitHub
-2. Connect your repository to [Vercel](https://vercel.com/)
-3. Deploy with zero configuration
-
-### Other Platforms
-- **Netlify**: Works with static exports
-- **Railway**: Full-stack deployment
-- **Digital Ocean**: App Platform deployment
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
